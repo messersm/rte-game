@@ -26,4 +26,3 @@ func _fixed_process(delta):
 		queue_free()
 
 	move(Vector2(0, - speed) * delta)
-
